@@ -4,3 +4,4 @@ Building experiments on Base network.
 Current focus: ecosystem exploration and documentation.
 Tracking ideas related to Base tools and apps.
 Looking into simple builder workflows on Base.
+Continuing to explore public onchain opportunities.
